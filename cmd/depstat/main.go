@@ -1,4 +1,4 @@
-package main
+package depstat
 
 import "k8s.io/repo-infra/depstat/cmd"
 
